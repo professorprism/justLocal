@@ -12,7 +12,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
-import '../widgets/bb.dart';
 
 void main() async
 { runApp(const ElseWhere());
@@ -40,16 +39,24 @@ class ElseWhere1 extends StatelessWidget
   Widget build(BuildContext context)
   { 
     List<Widget> kids = 
-    [ BB("bob"),  BB("mary"), BB("jane"), 
-      Text(AppLocalizations.of(context)!.helloWorld),
+    [ // BB("bob"),  BB("mary"), BB("jane"), 
+      BB(AppLocalizations.of(context)!.helloWorld),
       Localizations.override
-      (
-        context: context,
+      ( context: context,
         locale: const Locale('es'),
-        // Using a Builder here to get the correct BuildContext.
-        child: Builder(
-          builder: (BuildContext context) {
-            return Text(AppLocalizations.of(context)!.helloWorld);
+        child: // Text( AppLocalizations.of(context)!.helloWorld )
+          Builder // to get the context
+          ( builder: (BuildContext context) {
+              return BB(AppLocalizations.of(context)!.helloWorld);
+            },
+          ),
+      ),
+      Localizations.override
+      ( context: context,
+        locale: const Locale('ar'),
+        child: Builder // to get the context
+        ( builder: (BuildContext context) {
+            return BB(AppLocalizations.of(context)!.helloWorld);
           },
         ),
       ),
@@ -61,4 +68,14 @@ class ElseWhere1 extends StatelessWidget
       body: Column( children: kids ),
     );
   }
+}
+
+class BB extends Container
+{
+  BB( String s ) : super
+  ( decoration: BoxDecoration
+    ( border: Border.all(width:2),),
+    width:200, height:60,
+    child: Text(s, style: const TextStyle(fontSize: 20) ),
+  );
 }
