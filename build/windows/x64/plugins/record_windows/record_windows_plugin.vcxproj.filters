@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_windows_plugin_c_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_windows_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_readercallback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_iunknown.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_mediatype.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\include\record_windows\record_windows_plugin_c_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_windows_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\record.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\event_stream_handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\windows\flutter\ephemeral\.plugin_symlinks\record_windows\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{02E6CFC6-9F02-3CD2-898B-10502BCEC760}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B1CEF49F-DAC6-3E95-91DA-11E597E506E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

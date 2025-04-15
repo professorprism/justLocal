@@ -1,0 +1,1 @@
+ C:\\Users\\Barry-Standard\\Documents\\courses\\USC\\ITP-368\\workFlutter\\comm\\.dart_tool\\flutter_build\\8031dd52480bd8dcd47a5b3ed97462a4\\native_assets.yaml: 

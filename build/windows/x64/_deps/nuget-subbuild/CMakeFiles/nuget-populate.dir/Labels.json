@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dc12e71071651723ad316191736531af/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/fab065677ad3ee78673deb0e40c2c039/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/dd3d5887e7dd393d1f2513ec6492d41e/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dd3d5887e7dd393d1f2513ec6492d41e\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\fab065677ad3ee78673deb0e40c2c039\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\dc12e71071651723ad316191736531af\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Barry-Standard\Documents\courses\USC\ITP-368\workFlutter\comm\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BCEDD994-BFA4-315A-81E2-6F6D5A262BD5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

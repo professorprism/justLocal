@@ -1,0 +1,10 @@
+^C:\USERS\BARRY-STANDARD\DOCUMENTS\COURSES\USC\ITP-368\WORKFLUTTER\COMM\BUILD\WINDOWS\X64\CMAKEFILES\F5EA8B8A11F7802A04A9E3D20E574E5F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/windows -BC:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Barry-Standard/Documents/courses/USC/ITP-368/workFlutter/comm/build/windows/x64/comm.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
